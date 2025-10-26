@@ -1,0 +1,11 @@
+flask
+pandas
+tqdm
+newspaper3k
+transformers
+datasets
+torch
+scikit-learn
+requests
+python-dotenv
+tqdm
