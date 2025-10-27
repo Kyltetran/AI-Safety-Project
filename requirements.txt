@@ -4,8 +4,10 @@ tqdm
 newspaper3k
 transformers
 datasets
-torch
+tensorflow
 scikit-learn
 requests
 python-dotenv
-tqdm
+numpy
+keras
+matplotlib
